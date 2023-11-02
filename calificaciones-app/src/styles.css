@@ -9,13 +9,13 @@ body {
     background-size: cover;
     background-position: center;
     font-family: Arial, sans-serif;
-    color: rgb(11, 87, 210);
+    color: rgb(229, 211, 73);
     font-size: 20px; /* Tamaño de la letra */
     font-weight: bold; /* Texto en negrita */
 }
 
 .container {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(100, 62, 62, 0.8);
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -37,5 +37,5 @@ button {
 }
 
 button:hover {
-    background-color: rgb(89, 6, 221);
+    background-color: rgb(166, 202, 132);
 }
